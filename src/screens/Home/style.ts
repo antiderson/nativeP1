@@ -43,5 +43,10 @@ export const styles = StyleSheet.create({
         width: '100%',
         flexDirection: 'row',
         justifyContent: 'space-between',
-    }
+    },
+    listemptyText :{
+        color: '#FFF',
+        fontSize: 14,
+        textAlign: 'center',
+    },
 })
